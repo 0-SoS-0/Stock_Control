@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff90caf9</color>
+    <color name="colorPrimaryDark">#FF0288D1</color>
+    <color name="colorAccent">#ff4dd0e1</color>
+    <color name="md_black">#ff000000</color>
+
+    <color name="united_color">#138B8C</color>
+    <color name="primary_color">#17A4A5</color>
+    <color name="accent_color"> #8BC34A</color>
+    <color name="md_white">#ffffffff</color>
+
+    <color name="md_cyan_50">#ffe0f7fa</color>
+    <color name="md_cyan_100">#ffb2ebf2</color>
+    <color name="md_cyan_200">#ff80deea</color>
+    <color name="md_cyan_300">#ff4dd0e1</color>
+    <color name="md_cyan_400">#ff26c6da</color>
+    <color name="md_cyan_500">#ff00bcd4</color>
+    <color name="md_cyan_600">#ff00acc1</color>
+    <color name="md_cyan_700">#ff0097a7</color>
+    <color name="md_cyan_800">#ff00838f</color>
+    <color name="md_cyan_900">#ff006064</color>
+    <color name="md_cyan_A100">#ff84ffff</color>
+    <color name="md_cyan_A200">#ff18ffff</color>
+    <color name="md_cyan_A400">#ff00e5ff</color>
+    <color name="md_cyan_A700">#ff00b8d4</color>
+
+    <color name="md_teal_50">#ffe0f2f1</color>
+    <color name="md_teal_100">#ffb2dfdb</color>
+    <color name="md_teal_200">#ff80cbc4</color>
+    <color name="md_teal_300">#ff4db6ac</color>
+    <color name="md_teal_400">#ff26a69a</color>
+    <color name="md_teal_500">#ff009688</color>
+    <color name="md_teal_600">#ff00897b</color>
+    <color name="md_teal_700">#ff00796b</color>
+    <color name="md_teal_800">#ff00695c</color>
+    <color name="md_teal_900">#ff004d40</color>
+    <color name="md_teal_A100">#ffa7ffeb</color>
+    <color name="md_teal_A200">#ff64ffda</color>
+    <color name="md_teal_A400">#ff1de9b6</color>
+    <color name="md_teal_A700">#ff00bfa5</color>
+
+</resources>
